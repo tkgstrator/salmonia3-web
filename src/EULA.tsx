@@ -48,10 +48,6 @@ This EULA agreement, and any dispute arising out of or in connection with this E
 `;
 
 export default class EULA extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
   render() {
     return (
       <div className="App">

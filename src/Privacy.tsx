@@ -66,10 +66,6 @@ If you have any questions or suggestions about my Privacy Policy, do not hesitat
 `;
 
 export default class PrivacyPolicy extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
   render() {
     return (
       <div className="App">
